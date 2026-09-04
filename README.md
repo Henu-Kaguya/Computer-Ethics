@@ -64,3 +64,14 @@ Computer_Ethics/
 ## 📄 开源协议 / License
 
 本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享 4.0 国际许可协议)](LICENSE) 进行许可。
+
+## 课件下载
+
+课件原文件位于 [archive-2026 Release](https://github.com/Henu-Kaguya/Computer-Ethics/releases/tag/archive-2026)。ZIP 只作为 Release 资产发布，不提交回仓库。
+
+| Release 资产 | 内容 |
+|---|---|
+| `computer-ethics-slides-2023-pdf.zip` | `slides/23届ppt/`，2 个 PDF：`00课程简介.pptx.pdf`、`01第123章人工智能伦理概述.pptx.pdf` |
+| `computer-ethics-slides-pptx.zip` | `slides/ppt/` 中 8 个 PPTX；示例：`1、工程与工程伦理概述.pptx`、`2、伦理决策.pptx`、`3、工程师的伦理责任.pptx`、`4、工程中的安全、环境与可持续发展.pptx`、`5、工程伦理的全球化挑战.pptx` |
+
+`labs/Project/` 和 `slides/ppt/小组报告细则.md` 继续在 Git 中维护。PPTX 发布前需要确认版权、个人信息和再分发许可。
